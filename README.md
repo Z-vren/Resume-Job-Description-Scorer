@@ -13,7 +13,7 @@ A Streamlit-based web application that evaluates how well candidate resumes matc
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Z-vren/Resume-Job-Description-Scorer
 cd resume-job-matcher
 ```
 
