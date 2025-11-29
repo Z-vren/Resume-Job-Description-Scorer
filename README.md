@@ -56,4 +56,5 @@ resume-job-matcher/
 
 For issues or queries, please contact:
 - **A.B. Ghalib**: bsdsf22m047@pucit.edu.pk
-- **Zohha Azhar**: bsdsf22m042@example.com
+- **Zohha Azhar**: bsdsf22m042@pucit.edu.pk
+  
